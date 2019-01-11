@@ -57,5 +57,7 @@ public class Todo {
     public void setDate(Date todoDate) {
         mDate = todoDate;
     }
+
+
 }
 
